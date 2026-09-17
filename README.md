@@ -40,14 +40,3 @@ O projeto foi construído do zero focando em uma arquitetura moderna com **React
 O projeto foi publicado e hospedado em ambiente de produção com domínio próprio (`www`) durante a apresentação final do TCC.
 
 ---
-
-## 💻 Como Executar o Projeto Localmente
-
-### Pré-requisitos
-- **Node.js** (v16+) e **npm** ou **yarn** instalados.
-
-### Passos
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/KauannPedro/TCC-InstitutoNSFatima.git
